@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --bg-color: #4c44a9;
+}
+
+.main-cont{
+    width: 1200px;
+    height: 750px;
+    padding: 0,50px;
+    background-color:var(--bg-color);
+    margin-left: 150px;
+}
+
+ .header{
+    height:30px;
+    width: 1200px;
+    background-color: aquamarine;
+    padding: auto;
+ }
+
+
+
